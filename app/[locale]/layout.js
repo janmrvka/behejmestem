@@ -1,19 +1,22 @@
 import { NextIntlClientProvider, hasLocale } from 'next-intl';
+
+export const runtime = 'nodejs';
 import { notFound } from 'next/navigation';
-import { Geist, Geist_Mono } from 'next/font/google';
+import { Bebas_Neue, Inter } from 'next/font/google';
 import { routing } from '@/i18n/routing';
 import '../globals.css';
 import Navbar from '@/components/layout/Navbar';
 import Footer from '@/components/layout/Footer';
 
-const geistSans = Geist({
-  variable: '--font-geist-sans',
-  subsets: ['latin']
+const bebasNeue = Bebas_Neue({
+  variable: '--font-heading',
+  subsets: ['latin'],
+  weight: '400'
 });
 
-const geistMono = Geist_Mono({
-  variable: '--font-geist-mono',
-  subsets: ['latin']
+const inter = Inter({
+  variable: '--font-sans',
+  subsets: ['latin', 'latin-ext']
 });
 
 export default async function LocaleLayout({ children, params }) {
@@ -23,7 +26,7 @@ export default async function LocaleLayout({ children, params }) {
   }
 
   return (
-    <html lang={locale} className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}>
+    <html lang={locale} className={`${bebasNeue.variable} ${inter.variable} h-full antialiased`}>
       <body className="min-h-full flex flex-col">
         <NextIntlClientProvider>
           <Navbar />

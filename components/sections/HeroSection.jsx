@@ -49,7 +49,7 @@ export default function HeroSection() {
             transition={{ duration: 0.6, delay: 0.1 }}
             className="text-5xl sm:text-6xl lg:text-7xl font-bold text-white mb-6 leading-tight tracking-tight"
           >
-            {t('title')}{' '}
+            {t('title')}<br />
             <span className="text-[#F97316]">{t('titleHighlight')}</span>
           </motion.h1>
 

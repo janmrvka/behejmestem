@@ -41,8 +41,8 @@ export default function Navbar() {
             <div className="w-8 h-8 bg-[#F97316] rounded-lg flex items-center justify-center group-hover:scale-110 transition-transform">
               <Zap className="w-5 h-5 text-white" strokeWidth={2.5} />
             </div>
-            <span className={`font-bold text-lg tracking-tight transition-colors ${scrolled ? 'text-gray-900' : 'text-white'}`}>
-              Běhej<span className="text-[#F97316]">Městem</span>
+            <span className={`text-xl tracking-widest transition-colors ${scrolled ? 'text-gray-900' : 'text-white'}`} style={{fontFamily: 'var(--font-heading)'}}>
+              BĚHEJ<span className="text-[#F97316]">MĚSTEM</span>
             </span>
           </Link>
 

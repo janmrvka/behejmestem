@@ -16,8 +16,8 @@ export default function Footer() {
               <div className="w-8 h-8 bg-[#F97316] rounded-lg flex items-center justify-center group-hover:scale-110 transition-transform">
                 <Zap className="w-5 h-5 text-white" strokeWidth={2.5} />
               </div>
-              <span className="font-bold text-lg">
-                Běhej<span className="text-[#F97316]">Městem</span>
+              <span className="text-xl tracking-widest" style={{fontFamily: 'var(--font-heading)'}}>
+                BĚHEJ<span className="text-[#F97316]">MĚSTEM</span>
               </span>
             </Link>
             <p className="text-gray-400 text-sm leading-relaxed">{t('tagline')}</p>
