@@ -1,0 +1,147 @@
+{
+  "nav": {
+    "home": "Home",
+    "routes": "Routes",
+    "about": "About",
+    "contact": "Contact",
+    "bookRun": "Book a Run"
+  },
+  "hero": {
+    "badge": "Running Guide in Pilsen",
+    "title": "Discover Pilsen",
+    "titleHighlight": "running",
+    "subtitle": "Let me guide you through Pilsen on running routes with a personal guide. You'll see the city from a completely different perspective — fast, healthy and with a great atmosphere.",
+    "cta": "Book a Run",
+    "ctaSecondary": "View Routes",
+    "stats": {
+      "routes": "Routes in Pilsen",
+      "clients": "Happy Clients",
+      "years": "Years of Experience"
+    }
+  },
+  "features": {
+    "title": "Why run with me?",
+    "subtitle": "I combine a passion for running with deep knowledge of Pilsen",
+    "items": {
+      "personal": {
+        "title": "Personal Approach",
+        "desc": "Every run is tailored to your pace, fitness, and goals. No racing — just enjoyable movement."
+      },
+      "city": {
+        "title": "City Knowledge",
+        "desc": "10+ years of running in Pilsen. I know every corner, view, and hidden park."
+      },
+      "health": {
+        "title": "Healthy Movement",
+        "desc": "Proper technique, warm-up and stretching. I'll make sure you only feel good fatigue afterwards."
+      },
+      "flexible": {
+        "title": "Flexible Times",
+        "desc": "Morning, afternoon and evening slots. I'll adapt to your schedule."
+      }
+    }
+  },
+  "routes": {
+    "title": "Routes in Pilsen",
+    "subtitle": "Choose a route based on your preferences and fitness level",
+    "difficulty": {
+      "easy": "Easy",
+      "medium": "Medium",
+      "hard": "Hard"
+    },
+    "km": "km",
+    "duration": "min",
+    "bookRoute": "Book this route",
+    "allRoutes": "All routes",
+    "items": {
+      "historicCenter": {
+        "name": "Historic Centre",
+        "description": "Circuit through Republic Square, the Great Synagogue, Pilsner Urquell Brewery and along the Radbuza river.",
+        "highlights": ["Republic Square", "Great Synagogue", "Pilsner Urquell", "Radbuza River"]
+      },
+      "borsky": {
+        "name": "Borský Park & Surroundings",
+        "description": "Peaceful route through Borský Park, the zoo and Lochotin Park. Perfect for beginners.",
+        "highlights": ["Borský Park", "Pilsen Zoo", "Lochotin Park", "Red Bridge"]
+      },
+      "divadlo": {
+        "name": "Cultural Route",
+        "description": "Past cultural landmarks — J.K. Tyl Theatre, West Bohemian Museum, Kopecký Gardens.",
+        "highlights": ["J.K. Tyl Theatre", "W. Bohemian Museum", "Kopecký Gardens", "Štrunc Gardens"]
+      },
+      "river": {
+        "name": "Along the Rivers",
+        "description": "Romantic route along the Radbuza and Mže rivers from Klatovská avenue to the confluence of four rivers.",
+        "highlights": ["Radbuza River", "Mže River", "4 River Confluence", "Meadow Park"]
+      }
+    }
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Pavel Hubáček — your guide to Pilsen",
+    "bio1": "I'm a passionate runner and local guide who loves Pilsen. I've been running for over 15 years and have explored every corner of this beautiful city.",
+    "bio2": "My mission is simple: to show you Pilsen as you've never seen it — from a runner's perspective, at a pace that suits you, with stories you didn't know about the city.",
+    "bio3": "Whether you're a beginner or an experienced runner, I'll tailor the route and pace exactly to you. Come discover Pilsen with me!",
+    "experience": "years of experience",
+    "clients": "happy clients",
+    "routes": "favourite routes"
+  },
+  "contact": {
+    "title": "Book Your Run",
+    "subtitle": "Fill in the form and I'll get back to you within 24 hours",
+    "form": {
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "phone": "Phone",
+      "date": "Date",
+      "time": "Time",
+      "route": "Route",
+      "selectRoute": "Select a route",
+      "note": "Note",
+      "notePlaceholder": "Your fitness level, running experience, or anything you'd like to share...",
+      "submit": "Send Enquiry",
+      "sending": "Sending...",
+      "success": "Enquiry sent! I'll get back to you within 24 hours.",
+      "error": "Something went wrong. Please try again."
+    },
+    "info": {
+      "phone": "+420 777 123 456",
+      "email": "pavel@behejmestem.cz",
+      "location": "Pilsen, Czech Republic"
+    }
+  },
+  "cta": {
+    "title": "Ready for your first run?",
+    "subtitle": "Book your slot today and discover Pilsen from a new perspective.",
+    "button": "Book a Run"
+  },
+  "footer": {
+    "tagline": "Running Guide in Pilsen",
+    "rights": "All rights reserved.",
+    "links": {
+      "home": "Home",
+      "routes": "Routes",
+      "about": "About",
+      "contact": "Contact"
+    }
+  },
+  "meta": {
+    "home": {
+      "title": "Běhej Městem — Running Guide in Pilsen",
+      "description": "Discover Pilsen on running routes with personal guide Pavel Hubáček. Book your slot and see the city from a different perspective."
+    },
+    "routes": {
+      "title": "Routes | Běhej Městem",
+      "description": "Browse running routes in Pilsen. From the historic centre to parks and rivers — each route offers a different view of the city."
+    },
+    "about": {
+      "title": "About | Běhej Městem",
+      "description": "Meet Pavel Hubáček — your running guide in Pilsen with 15 years of experience."
+    },
+    "contact": {
+      "title": "Contact | Běhej Městem",
+      "description": "Book a run in Pilsen with a personal guide. Fill in the form and Pavel will reply within 24 hours."
+    }
+  }
+}

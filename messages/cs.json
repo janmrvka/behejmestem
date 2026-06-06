@@ -1,0 +1,147 @@
+{
+  "nav": {
+    "home": "Domů",
+    "routes": "Trasy",
+    "about": "O mně",
+    "contact": "Kontakt",
+    "bookRun": "Rezervovat běh"
+  },
+  "hero": {
+    "badge": "Průvodce běháním po Plzni",
+    "title": "Objevte Plzeň",
+    "titleHighlight": "během",
+    "subtitle": "Nechte se provést Plzní na běžeckých trasách s osobním průvodcem. Poznáte město z úplně jiné perspektivy — rychle, zdravě a se skvělou atmosférou.",
+    "cta": "Rezervovat termín",
+    "ctaSecondary": "Prohlédnout trasy",
+    "stats": {
+      "routes": "Tras po Plzni",
+      "clients": "Spokojených klientů",
+      "years": "Let zkušeností"
+    }
+  },
+  "features": {
+    "title": "Proč běhat se mnou?",
+    "subtitle": "Kombinuji vášeň pro běh s hlubokými znalostmi Plzně",
+    "items": {
+      "personal": {
+        "title": "Osobní přístup",
+        "desc": "Každý běh přizpůsobím vašemu tempu, kondici a cílům. Žádné závody — jen příjemný pohyb."
+      },
+      "city": {
+        "title": "Znalost města",
+        "desc": "Přes 10 let běhám po Plzni. Znám každý zákoutí, výhled i skrytý park."
+      },
+      "health": {
+        "title": "Zdravý pohyb",
+        "desc": "Správná technika, rozcvičení i protažení. Postarám se, abyste po běhu cítili jen dobrou únavu."
+      },
+      "flexible": {
+        "title": "Flexibilní časy",
+        "desc": "Ranní, odpolední i večerní termíny. Přizpůsobím se vašemu diáři."
+      }
+    }
+  },
+  "routes": {
+    "title": "Trasy po Plzni",
+    "subtitle": "Vyberte si trasu podle svých preferencí a kondice",
+    "difficulty": {
+      "easy": "Lehká",
+      "medium": "Střední",
+      "hard": "Náročná"
+    },
+    "km": "km",
+    "duration": "min",
+    "bookRoute": "Rezervovat tuto trasu",
+    "allRoutes": "Všechny trasy",
+    "items": {
+      "historicCenter": {
+        "name": "Historické centrum",
+        "description": "Okruh přes náměstí Republiky, Velkou synagogu, pivovar Plzeňský Prazdroj a podél řeky Radbuzy.",
+        "highlights": ["náměstí Republiky", "Velká synagoga", "Plzeňský Prazdroj", "řeka Radbuza"]
+      },
+      "borsky": {
+        "name": "Borský park a okolí",
+        "description": "Klidná trasa přes Borský park, zoo a Lochotínský park. Ideální pro začátečníky.",
+        "highlights": ["Borský park", "ZOO Plzeň", "Lochotínský park", "Červený most"]
+      },
+      "divadlo": {
+        "name": "Kulturní trasa",
+        "description": "Průběh kolem kulturních památek — Divadlo J. K. Tyla, Západočeské muzeum, Kopecký sady.",
+        "highlights": ["Divadlo J.K. Tyla", "Západ. muzeum", "Kopecký sady", "Štruncovy sady"]
+      },
+      "river": {
+        "name": "Podél řeky",
+        "description": "Romantická trasa podél řek Radbuza a Mže od Klatovské třídy k soutoku čtyř řek.",
+        "highlights": ["Řeka Radbuza", "Řeka Mže", "Soutok 4 řek", "Luční park"]
+      }
+    }
+  },
+  "about": {
+    "title": "O mně",
+    "subtitle": "Pavel Hubáček — váš průvodce Plzní",
+    "bio1": "Jsem vášnivý běžec a místní průvodce, který miluje Plzeň. Běhám přes 15 let a za tu dobu jsem prozkoumal každý kout tohoto krásného města.",
+    "bio2": "Moje mise je jednoduchá: ukázat vám Plzeň tak, jak ji neznáte — z perspektivy běžce, tempem, které vám sedí, s příběhy, které o městě nevíte.",
+    "bio3": "Ať jste začátečník nebo zkušený běžec, přizpůsobím trasu i tempo přesně vám. Pojďte se mnou objevovat Plzeň!",
+    "experience": "let zkušeností",
+    "clients": "spokojených klientů",
+    "routes": "oblíbených tras"
+  },
+  "contact": {
+    "title": "Rezervujte si běh",
+    "subtitle": "Vyplňte formulář a já se vám ozvu do 24 hodin",
+    "form": {
+      "firstName": "Jméno",
+      "lastName": "Příjmení",
+      "email": "E-mail",
+      "phone": "Telefon",
+      "date": "Datum",
+      "time": "Čas",
+      "route": "Trasa",
+      "selectRoute": "Vyberte trasu",
+      "note": "Poznámka",
+      "notePlaceholder": "Vaše kondice, zkušenosti s běháním, nebo cokoliv co chcete sdělit...",
+      "submit": "Odeslat poptávku",
+      "sending": "Odesílám...",
+      "success": "Poptávka odeslána! Ozvu se vám do 24 hodin.",
+      "error": "Něco se pokazilo. Zkuste to prosím znovu."
+    },
+    "info": {
+      "phone": "+420 777 123 456",
+      "email": "pavel@behejmestem.cz",
+      "location": "Plzeň, Česká republika"
+    }
+  },
+  "cta": {
+    "title": "Připraveni na první běh?",
+    "subtitle": "Rezervujte si termín ještě dnes a objevte Plzeň z nové perspektivy.",
+    "button": "Rezervovat běh"
+  },
+  "footer": {
+    "tagline": "Průvodce běháním po Plzni",
+    "rights": "Všechna práva vyhrazena.",
+    "links": {
+      "home": "Domů",
+      "routes": "Trasy",
+      "about": "O mně",
+      "contact": "Kontakt"
+    }
+  },
+  "meta": {
+    "home": {
+      "title": "Běhej Městem — Průvodce běháním po Plzni",
+      "description": "Objevte Plzeň na běžeckých trasách s osobním průvodcem Pavlem Hubáčkem. Rezervujte si termín a poznejte město z jiné perspektivy."
+    },
+    "routes": {
+      "title": "Trasy | Běhej Městem",
+      "description": "Prohlédněte si běžecké trasy po Plzni. Od historického centra po parky a řeky — každá trasa nabídne jiný pohled na město."
+    },
+    "about": {
+      "title": "O mně | Běhej Městem",
+      "description": "Poznejte Pavla Hubáčka — vašeho průvodce běháním po Plzni s 15 lety zkušeností."
+    },
+    "contact": {
+      "title": "Kontakt | Běhej Městem",
+      "description": "Rezervujte si běh po Plzni s osobním průvodcem. Vyplňte formulář a Pavel vám odpoví do 24 hodin."
+    }
+  }
+}
