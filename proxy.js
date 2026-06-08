@@ -10,7 +10,7 @@ function getLocale(request) {
   return defaultLocale;
 }
 
-export function middleware(request) {
+export function proxy(request) {
   const { pathname } = request.nextUrl;
 
   const pathnameHasLocale = locales.some(

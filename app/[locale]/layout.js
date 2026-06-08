@@ -1,6 +1,4 @@
 import { NextIntlClientProvider, hasLocale } from 'next-intl';
-
-export const runtime = 'nodejs';
 import { notFound } from 'next/navigation';
 import { Bebas_Neue, Inter } from 'next/font/google';
 import { routing } from '@/i18n/routing';
