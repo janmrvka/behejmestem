@@ -17,6 +17,10 @@ const inter = Inter({
   subsets: ['latin', 'latin-ext']
 });
 
+export function generateStaticParams() {
+  return routing.locales.map((locale) => ({ locale }));
+}
+
 export default async function LocaleLayout({ children, params }) {
   const { locale } = await params;
   if (!hasLocale(routing.locales, locale)) {
